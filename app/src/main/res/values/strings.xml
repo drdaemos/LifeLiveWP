@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">LifeLiveWP</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <!-- Application Name -->
+    <string name="app_name">Живые обои "Жизнь"</string>
+
+    <!-- Name in Live Wallpaper Picker list -->
+    <string name="lwp_name">"Жизнь" Конвея</string>
+
+    <!-- Description in Live Wallpaper Picker list -->
+    <string name="lwp_desc">Живые обои, симулирующие игру "Жизнь" Джона Конвея.</string>
+
+    <!-- Author -->
+    <string name="lwp_author">Confluent Labs</string>
+
+    <!-- Quick little message displayed when the Live Wallpaper Picker is opened -->
+    <!-- The message text is the prefix, lwp_name, and suffix concatenated -->
+    <string name="picker_toast_prefix">Выберите \"</string>
+    <string name="picker_toast_suffix">\" из списка живых обоев</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Настройки</string>
 
 </resources>
